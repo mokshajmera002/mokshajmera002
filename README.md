@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 # Hi there, I'm [Your Name]! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi there, I'm [Your Name]! 👋)](https://git.io/typing-svg)
 
 I'm a **[Your Job Title]** based in **[Your Location]**. I'm passionate about building scalable web applications and exploring open-source projects.
 
@@ -39,6 +40,8 @@ I'm a **[Your Job Title]** based in **[Your Location]**. I'm passionate about bu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+
+![Profile views](https://komarev.com/ghpvc/?username=mokshajmera002)
 
 ### 📊 GitHub Stats
 
