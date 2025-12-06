@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=34&pause=1000&color=1569F7&center=true&vCenter=true&width=1000&lines=Hi!👋+I'm+Moksh+Ajmera)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=34&pause=1000&color=1569F7&center=true&vCenter=true&width=1000&height=100&lines=Hi!👋+I'm+Moksh+Ajmera)](https://git.io/typing-svg)
+
+<div align="center" style="font-family: Arial, sans-serif; font-size: 30px; color: #333;">
+  <strong> A passionate Software Engineer from India. </strong>
+</div>
 
 ---
 
@@ -24,7 +28,10 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,c,html,spring,react,css,mongodb,mysql,git,postman,maven,npm,firebase,githubactions,docker,kubernetes,aws,idea,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,html,spring,react,css,mongodb,mysql,git&perline=10" />
+</a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,maven,npm,firebase,docker,kubernetes,aws,idea,vscode&perline=10" />
 </a>
 <!-- githubactions,docker,kubernetes,aws,vscode -->
 <br />
@@ -33,7 +40,10 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mokshajmera002&show_icons=true&theme=transparent&hide_border=true" height="180" alt="stats graph" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mokshajmera002&show_icons=true&theme=transparent&hide_border=true" height="180" alt="stats graph" /> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokshajmera002&theme=default" alt="GitHub Streak Stats" />
+</p>
 
 </div>
 
