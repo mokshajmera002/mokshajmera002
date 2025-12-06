@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=44&pause=1000&color=1569F7&center=true&vCenter=true&width=1000&height=100&lines=Hi!👋+I'm+Moksh+Ajmera)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=42&pause=1000&color=1569F7&center=true&vCenter=true&width=700&height=50&lines=Hi!%F0%9F%91%8B+I'm+Moksh+Ajmera." alt="Typing SVG" /></a>
+</p>
 
-<div align="center" style="font-family: Arial, sans-serif; font-size: 30px; color: #333;">
-  <strong> A passionate Software Engineer from India. </strong>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=300&size=18&pause=1000&color=000000&center=true&vCenter=true&width=700&height=50&lines=A+passionate+software+engineer+from+India." alt="Typing SVG" /></a>
+</p>
 
 ---
 
