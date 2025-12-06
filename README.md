@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=34&pause=1000&color=1569F7&center=true&vCenter=true&width=1000&height=100&lines=Hi!👋+I'm+Moksh+Ajmera)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=44&pause=1000&color=1569F7&center=true&vCenter=true&width=1000&height=100&lines=Hi!👋+I'm+Moksh+Ajmera)](https://git.io/typing-svg)
 
 <div align="center" style="font-family: Arial, sans-serif; font-size: 30px; color: #333;">
   <strong> A passionate Software Engineer from India. </strong>
